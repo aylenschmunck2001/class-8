@@ -1,0 +1,36 @@
+
+#TEXTO1 {
+    width: :80%;
+    float:left;
+    font-size:150%;
+    text-align:justify;
+}
+#TEXTO2 {
+
+    width: :75%;
+    float:right;
+    font-size:200%;
+    text-align:justify;
+}
+#p_texto1{
+    text-align:center;
+    margin:bottom 2em;
+    
+
+}
+
+#p_texto2{
+    text-align:center;
+   
+}
+#image1{
+    width: 20%;
+float:right;
+}
+#image2{
+    width: 25%;
+float:left;
+}
+#separacion{
+    clear:both;
+}
